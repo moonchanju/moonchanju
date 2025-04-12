@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 안녕하세요! 문찬주입니다 
 
-<!--
-**moonchanju/moonchanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프론트엔드와 웹 앱 개발에 관심이 많은 대학생 개발자입니다.  
+현재는 React와 JavaScript, Python 등을 공부하고 있어요!
 
-Here are some ideas to get you started:
+### 📚 배우고 있는 것들
+- HTML, CSS, JavaScript
+- React
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 목표
+- 사용자에게 가치 있는 서비스를 만드는 개발자가 되기!
+
+🌱 함께 성장하며 재미있게 공부하고 싶어요!
