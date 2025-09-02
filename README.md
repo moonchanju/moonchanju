@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hi, I'm 문찬주 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 👨‍💻 About Me</li></li>🌱 현재 프론트엔드를 중심으로 개발을 공부하고 있습니다.</li></li>💡 새로운 기술을 배우고 직접 프로젝트에 적용하는 걸 좋아합니다.</li></li>🚀 해커톤, 팀 프로젝트, 개인 학습을 통해 경험을 쌓아가고 있습니다.</li></li></li></li> </div> 
+    <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 👨‍💻 About Me</li></li>🌱 현재 프론트엔드를 중심으로 개발을 공부하고 있습니다.</li></li>💡 새로운 기술을 배우고 직접 프로젝트에 적용하는 걸 좋아합니다.</li></li>🚀 해커톤, 팀 프로젝트, 개인 학습을 통해 경험을 쌓아가고 있습니다.</li></li></li></li> </ul> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
